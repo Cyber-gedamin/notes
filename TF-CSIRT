@@ -1,0 +1,59 @@
+#1***************************************************************************************************************************
+TF-CSIRT
+	- 3 meeting per year
+	247 teans, but 24 certified teams
+
+	2016 meeting. in Riga: Results- SWOT analysis, stay with GEANT for now and go for new procurement
+		- https://www.geant.org/About
+
+	2017 strategy meeting. Aims ....
+
+
+Reference Security Incident Taxonomy Working Group
+https://tf-csirt.org/groups/
+
+OTHER meetings:
+56th meeting: 21 Junuary, Riga
+57th meeting 21-24 May, luxemburg
+
+***************************************************************************************************************************
+#2
+Open directories (by misconfiguarion or other means they are open)
+	jan.kopriva@alef.com, CZ
+	INFO:
+		Analysed and looked for opem directories (manually) in CZ.
+		Founded Sensitive data on 185 domains
+		Founds: personal data, higly sensitive data (backup of emails, financial records, invoices, customers, psw, etc.)
+
+***************************************************************************************************************************
+#3
+NKSC (benetis)
+
+***************************************************************************************************************************
+#4
+CERT.PL
+https://github.com/CERT-Polska/n6
+	
+	other info sharing: https://sissden.eu/
+
+	INfo about this tool:
+	- Perl + Bash + Python
+	...etc.
+OBJ: get and share data, get feed from others (But it is CSIRT to CSIRT exchange)
+
+OTHER tools:
+IntelMQ
+	-focus on notification (email)
+
+n6
+
+MISP:
+	= focus on sharing loC
+	=  broad set of of use cases
+	= multiple sharing...
+s
+
+
+***************************************************************************************************************************
+
+***************************************************************************************************************************
