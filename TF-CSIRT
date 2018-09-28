@@ -81,12 +81,43 @@ whoistory
 https://github.com/whoistory/whoistory
 _______________________________________
 
+https://www.enisa.europa.eu/topics/csirts-in-europe/csirt-inventory/certs-by-country-interactive-map
+
+https://www.enisa.europa.eu/topics/csirts-in-europe/csirt-inventory/certs-by-country-interactive-map#country=Lithuania
+
+
+
+========== 
+DAY-2
+=========
+***************************************************************************************************************************
+NKSC
+R.R.
+MAPPI - MAP of puclic internet (Tomas Rudis) tomasr@cert.lt
+
+	Automatic data collection BGP protocol and RIPE database
+	applied for CEF proggram IOT get finances
+	2019 the project should be done.
+
+	DATA collector from diferent sources (xml, csv, json, etc..)
+
+	REPORTS: dashbords, export to any kind of file
+
+	MONITORING and ALERTS: (via email or email, or via this tool)
+
+	LICENCE model: free for EU CSIRT's; willl be regural user for everyone but this some limitation.
+
+.....
+	OTHER tolls: ripa atlas...
 
 
 
 ***************************************************************************************************************************
 
-***************************************************************************************************************************
+NATO Cyber defence center of excellence
+franz.lantenhhammer@ccdcoe.org
+
+
 
 ***************************************************************************************************************************
 
